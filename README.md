@@ -1,0 +1,1 @@
+This App is used to set up a websocket bi-directional, full-duplex communication chat room. In this project you with see evenets for when the client connects, sends a message, and disconnects. The HTMl file is used to set up the front end of the chat room. Using the http://127.0.0.1:5000 url anyone who is on that url can chat with each other.
